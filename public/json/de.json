@@ -1,0 +1,107 @@
+{
+    "header": {
+        "home": "Home",
+        "aboutus": "Über uns",
+        "dropdown": {
+            "history": "Geschichte",
+            "project": "Das Projekt",
+            "organization": "Die Organisation"
+        },
+        "map": "Karte",
+        "contact": "Kontakt",
+        "translate": "Übersetzen"
+    },
+    "landingpage": {
+        "quote": "Erkunde <br /> deine <br /> Reise",
+        "topic": [
+            "Über uns",
+            "Karte",
+            "Kontakt"
+        ],
+        "paragraph": [
+            "Wir sind die Stiftung Internationale Grüne Nordseeküstenstraße 2.0, gegründet am 21. November 2020 und ansässig in Groningen. Unser internationales Projekt Green Coastal Journey konzentriert sich auf...",
+            "Möchtest du entlang der Küste Nordeuropas reisen? Hier kannst du deine eigene Route mit allen lokalen Unterkünften und Sehenswürdigkeiten wählen.",
+            "Möchtest du als Unternehmen auch dabei sein? Fülle hier ein Formular aus und komm auch auf die Karte! Für weitere Fragen kannst du uns hier ebenfalls kontaktieren."
+        ],
+        "link": [
+            "Mehr lesen!",
+            "Erstelle deine eigene Route!",
+            "Kontaktiere uns"
+        ]
+    },
+    "geschiedenis": {
+        "title": [
+            "Gegenwart",
+            "Vergangenheit"
+        ],
+        "paragraph": [
+            "Wir sind die Stiftung Internationale Grüne Nordseeküstenstraße 2.0, gegründet am 21. November 2020 und ansässig in Groningen.<br><br>Unser internationales Projekt Green Coastal Journey konzentriert sich auf die nachhaltige Entwicklung des Tourismus und der Kultur in den Nordseeküstenregionen der Niederlande, Deutschlands, Dänemarks und Norwegens. Wir möchten dies erreichen, indem wir eine einzigartige Zusammenarbeit mit den öffentlichen touristischen Organisationen (Destination Marketing Organizations) und den touristischen Unternehmen entlang dieser Küste eingehen.<br><br>Das Projekt reagiert auf aktuelle und zukünftige gesellschaftliche Entwicklungen. Die sich wandelnde Gesellschaft erfordert eine Neubewertung des traditionellen Tourismus, bei dem Nachhaltigkeit – auch im Tourismus – zunehmend erwartet wird, und dies ist die Essenz unseres Projekts. Zu den weiteren Merkmalen gehören:<br><br>- Wirtschaftliche Stimulierung der Küstenregionen<br>- Innovative Digitalisierung<br>- Internationale Zusammenarbeit",
+            "Die ursprüngliche Grüne Küstenstraße war ein Initiative der Provinzialen Touristenorganisation Groningen in Zusammenarbeit mit VVV Bremen in den 1960er Jahren. Ziel: die Förderung des Tourismus zwischen den beiden Städten und Provinzen. Später schlossen sich Dänemark und Norwegen an.<br><br>Die altmodische Grüne Küstenstraße geriet aufgrund verschiedener Entwicklungen allmählich in Vergessenheit. Mit der digitalen Grünen Küstenreise entwickeln wir die touristische Reise, die zuvor in gedruckter Form existierte, zu einem modernen, digitalen Produkt um."
+        ]
+    },
+    "project": {
+        "title": [
+            "Zielsetzung",
+            "Suchen, wählen und buchen",
+            "Ökologisierung und Nachhaltigkeit"
+        ],
+        "paragraph": [
+            "Das Ziel ist es, digital (über eine Website und App) einen übersichtlichen Überblick über alle relevanten Inhalte, wie Unterkünfte, Routen und kulturelle Aktivitäten, entlang der Küsten von Nord-Niederlande, Deutschland, Dänemark und Norwegen zu bieten. Das verbindende Thema: nachhaltige touristische Attraktionen, Points of Interest und deren nachhaltige Nutzung durch den Touristen. Diese Website/App soll dem Touristen die Möglichkeit geben, die Reise im Voraus zu planen, aber auch während der Reise nach dem nächsten interessanten Ziel auf einer Route zwischen Nord-Niederlande und Norwegen oder zurück zu suchen. Damit erfüllt es die Bedürfnisse sowohl spontaner als auch planender Touristen. Wir möchten auch Geschichten zusammenstellen, die ähnliche Points of Interest miteinander verbinden. Eine erfolgreiche Entwicklung dieses Projekts bietet auch dem touristischen Unternehmer zusätzliche Werbung, verbessert die Auffindbarkeit und trägt somit zur wirtschaftlichen Weiterentwicklung und zum Wachstum der Branche bei. Alles rund um das Thema: nachhaltiger Tourismus entlang der Grünen Küstenstraße von Nord-Niederlande, Nordwest-Deutschland, Dänemark bis nach Norwegen.",
+            "Die relevanten Inhalte werden durch die Angabe der Vorlieben des Touristen ausgewählt. Es wird eine fortschrittliche Suchmaschine sein, kombiniert mit inhaltlichen Hintergrundinformationen über Points of Interest, einschließlich der Möglichkeit, Zugang zu buchen oder Unterkünfte zu reservieren. Der Tourist kann diese Unterkünfte und Geschichten auch bewerten, um dem nächsten potenziellen Besucher bei der Auswahl zu helfen.",
+            "Unsere Mission ist es, den Tourismus nachhaltiger zu gestalten. Wie? Indem wir die Nordseeküstenregion von Niederlande, Deutschland, Dänemark und Norwegen das ganze Jahr über fördern und touristische Erlebnisse in Richtung grüner Initiativen anregen. Durch die Verlängerung der Urlaubssaison wird der Tourismus besser verteilt und der Druck auf stark besuchte Gebiete reduziert. Im Ergebnis wird dadurch auch die Bettenauslastung höher. Wir möchten: - das elektrische Fahren so weit wie möglich fördern, indem wir beispielsweise die verfügbaren Ladestationen in die App aufnehmen. - Points of Interest mit grünen, nachhaltigen Initiativen in ihrem Betrieb anbieten - grünen Unternehmern eine Plattform bieten, um sich mit gleichartigen Initiativen bei gleichgesinnten Interessenten zu promoten. Damit einen Beitrag zur Förderung des nachhaltigen Tourismus leisten."
+        ]
+    },
+    "organization": {
+        "title": [
+            "Stiftungsrat",
+            "Weitere Funktionen"
+        ],
+        "functions": [
+            "Vorsitzender",
+            "Sekretär",
+            "Schatzmeister",
+            "Projektleitung",
+            "Internationale Beziehungen",
+            "Finanzen",
+            "Kommunikation",
+            "Finanzbüro",
+            "Berater"
+        ]
+    },
+    "contact": {
+        "title": "Anmelden? Das ist möglich!",
+        "info": [
+            "Firmenname:",
+            "Straßenname:",
+            "Hausnummer:",
+            "Postleitzahl:",
+            "Stadt:",
+            "E-Mail-Adresse:",
+            "Telefonnummer:"
+        ],
+        "submit": "Senden"
+    },
+    "aboutus": {
+        "paragraph": [
+            "Wir sind die Stiftung Internationale Grüne Nordseeküstenstraße 2.0, gegründet am 21. November 2020 und mit Sitz in Groningen.<br><br>Unser internationales Projekt Green Coastal Journey konzentriert sich auf die nachhaltige Entwicklung des Tourismus und der Kultur in den Nordseeküstenregionen der Niederlande, Deutschlands, Dänemarks und Norwegens. Dies möchten wir durch eine einzigartige Zusammenarbeit mit und zwischen den öffentlichen Tourismusorganisationen (Destination Marketing Organizations) und den touristischen Unternehmen entlang dieser Küste erreichen.<br><br>Das Projekt reagiert auf aktuelle und zukünftige gesellschaftliche Entwicklungen. Die sich entwickelnde Gesellschaft verlangt eine Neuausrichtung des traditionellen Tourismus, wobei Nachhaltigkeit - auch im Tourismus - zunehmend erwartet wird, und das ist die Essenz unseres Projekts.<br><br>Die anderen Merkmale:<br>- wirtschaftliche Stimulierung der Küstenregionen<br>- innovative Digitalisierung<br>- internationale Zusammenarbeit",
+            "Die ursprüngliche Grüne Küstenstraße war ein Projekt des Provinzialverbandes für Tourismus (VVV) Groningen in Zusammenarbeit mit dem VVV Bremen in den 1960er Jahren. Ziel war es, den Tourismus zwischen den beiden Städten und Provinzen anzukurbeln. Später schlossen sich Dänemark und Norwegen diesem Projekt an.<br><br>Die alte Grüne Küstenstraße geriet aufgrund verschiedener Entwicklungen allmählich in Vergessenheit.<br><br>Mit der digitalen Green Coastal Journey entwickeln wir die Touristenroute, die zuvor in gedruckter Form existierte, zu einem modernen, digitalen Produkt weiter."
+        ]
+    },
+    "login": {
+        "login": "Anmelden bei Ihrem Konto",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "rememberme": "Erinnere mich",
+        "rememberpw": "Passwort vergessen?",
+        "submit": "Anmelden",
+        "account": "Sie haben noch kein Konto?",
+        "register": "Registrieren"
+    },
+    "footer": {
+        "address": "Leonard Springerlaan 37<br> 9727 KB, Groningen",
+        "email": "info@greencoastaljourney.eu",
+        "mobile": "+31 6 46 61 53 04",
+        "kvk": "80974252",
+        "organization": "Internationale Stiftung Grüne Nordseeküstenstraße 2.0"
+    }
+}

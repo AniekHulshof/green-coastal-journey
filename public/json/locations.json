@@ -1,0 +1,772 @@
+{
+    "locations": [
+        {
+            "name": "Texel",
+            "type": "Island",
+            "address": "Texel, Netherlands",
+            "coordinates": [53.0631, 4.7976],
+            "contact": "+31 222 369 600",
+            "rating": 4.6
+        },
+        {
+            "name": "Sylt",
+            "type": "Island",
+            "address": "Sylt, Germany",
+            "coordinates": [54.9084, 8.3175],
+            "contact": "+49 4651 9200",
+            "rating": 4.7
+        },
+        {
+            "name": "Skagen",
+            "type": "Town",
+            "address": "Skagen, Denmark",
+            "coordinates": [57.7200, 10.5833],
+            "contact": "+45 89 89 89 89",
+            "rating": 4.8
+        },
+        {
+            "name": "Dutch Coastal Dunes",
+            "type": "Natural Area",
+            "address": "North Holland, Netherlands",
+            "coordinates": [52.5858, 4.6254],
+            "contact": "N/A",
+            "rating": 4.5
+        },
+        {
+            "name": "Wadden Sea National Park",
+            "type": "National Park",
+            "address": "Netherlands, Germany, Denmark",
+            "coordinates": [53.4779, 8.0574],
+            "contact": "+49 441 361 61",
+            "rating": 4.7
+        },
+        {
+            "name": "Rømø",
+            "type": "Island",
+            "address": "Rømø, Denmark",
+            "coordinates": [55.1185, 8.6031],
+            "contact": "+45 74 75 54 00",
+            "rating": 4.6
+        },
+        {
+            "name": "Kristiansand",
+            "type": "City",
+            "address": "Kristiansand, Norway",
+            "coordinates": [58.1464, 7.9955],
+            "contact": "+47 38 07 50 00",
+            "rating": 4.8
+        },
+        {
+            "name": "Egmond aan Zee",
+            "type": "Coastal Town",
+            "address": "Egmond aan Zee, Netherlands",
+            "coordinates": [52.6186, 4.6225],
+            "contact": "+31 72 750 2000",
+            "rating": 4.4
+        },
+        {
+            "name": "Helgoland",
+            "type": "Island",
+            "address": "Helgoland, Germany",
+            "coordinates": [54.1817, 7.8898],
+            "contact": "+49 4725 8080",
+            "rating": 4.7
+        },
+        {
+            "name": "Hanstholm",
+            "type": "Town",
+            "address": "Hanstholm, Denmark",
+            "coordinates": [57.1162, 8.6130],
+            "contact": "+45 97 96 30 00",
+            "rating": 4.6
+        },
+        {
+            "name": "Bergen",
+            "type": "City",
+            "address": "Bergen, Norway",
+            "coordinates": [60.3913, 5.3221],
+            "contact": "+47 55 56 20 00",
+            "rating": 4.8
+        },
+        {
+            "name": "Zandvoort",
+            "type": "Coastal Town",
+            "address": "Zandvoort, Netherlands",
+            "coordinates": [52.3775, 4.5388],
+            "contact": "+31 23 574 1144",
+            "rating": 4.3
+        },
+        {
+            "name": "Wangerooge",
+            "type": "Island",
+            "address": "Wangerooge, Germany",
+            "coordinates": [53.7871, 7.8887],
+            "contact": "+49 04469 94930",
+            "rating": 4.6
+        },
+        {
+            "name": "Hirtshals",
+            "type": "Town",
+            "address": "Hirtshals, Denmark",
+            "coordinates": [57.5868, 9.9621],
+            "contact": "+45 98 94 11 88",
+            "rating": 4.5
+        },
+        {
+            "name": "Stavanger",
+            "type": "City",
+            "address": "Stavanger, Norway",
+            "coordinates": [58.9699, 5.7331],
+            "contact": "+47 51 50 70 00",
+            "rating": 4.7
+        },
+        {
+            "name": "Kijkduin",
+            "type": "Coastal Town",
+            "address": "Kijkduin, Netherlands",
+            "coordinates": [52.0676, 4.2300],
+            "contact": "+31 70 338 7600",
+            "rating": 4.2
+        },
+        {
+            "name": "Büsum",
+            "type": "Town",
+            "address": "Büsum, Germany",
+            "coordinates": [54.1250, 8.8594],
+            "contact": "+49 48 34 90010",
+            "rating": 4.4
+        },
+        {
+            "name": "Skagen Harbour",
+            "type": "Harbour",
+            "address": "Skagen, Denmark",
+            "coordinates": [57.7210, 10.5905],
+            "contact": "+45 89 89 89 89",
+            "rating": 4.5
+        },
+        {
+            "name": "Kristiansund",
+            "type": "City",
+            "address": "Kristiansund, Norway",
+            "coordinates": [63.1148, 7.7320],
+            "contact": "+47 71 58 88 00",
+            "rating": 4.6
+        },
+        {
+            "name": "Katwijk",
+            "type": "Coastal Town",
+            "address": "Katwijk, Netherlands",
+            "coordinates": [52.2017, 4.4037],
+            "contact": "+31 71 406 6060",
+            "rating": 4.1
+        },
+        {
+            "name": "Norderney",
+            "type": "Island",
+            "address": "Norderney, Germany",
+            "coordinates": [53.7032, 7.1423],
+            "contact": "+49 4932 8910",
+            "rating": 4.5
+        },
+        {
+            "name": "Aarhus",
+            "type": "City",
+            "address": "Aarhus, Denmark",
+            "coordinates": [56.1629, 10.2039],
+            "contact": "+45 87 13 13 40",
+            "rating": 4.7
+        },
+        {
+            "name": "Kristiansund Airport Kvernberget",
+            "type": "Airport",
+            "address": "Kvernberget, Kristiansund, Norway",
+            "coordinates": [63.1125, 7.8281],
+            "contact": "+47 67 03 21 00",
+            "rating": 4.6
+        },
+        {
+            "name": "Scheveningen",
+            "type": "Coastal Town",
+            "address": "Scheveningen, Netherlands",
+            "coordinates": [52.1101, 4.2759],
+            "contact": "+31 70 416 8200",
+            "rating": 4.0
+        },
+        {
+            "name": "Bremerhaven",
+            "type": "Town",
+            "address": "Bremerhaven, Germany",
+            "coordinates": [53.5396, 8.5801],
+            "contact": "+49 471 590 90",
+            "rating": 4.3
+        },
+        {
+            "name": "Aalborg",
+            "type": "City",
+            "address": "Aalborg, Denmark",
+            "coordinates": [57.0488, 9.9217],
+            "contact": "+45 99 31 31 31",
+            "rating": 4.6
+        },
+        {
+            "name": "Oslo",
+            "type": "City",
+            "address": "Oslo, Norway",
+            "coordinates": [59.9139, 10.7522],
+            "contact": "+47 21 80 21 80",
+            "rating": 4.8
+        },
+        {
+            "name": "Noordwijk",
+            "type": "Coastal Town",
+            "address": "Noordwijk, Netherlands",
+            "coordinates": [52.2412, 4.4226],
+            "contact": "+31 71 361 9324",
+            "rating": 3.9
+        },
+        {
+            "name": "Juist",
+            "type": "Island",
+            "address": "Juist, Germany",
+            "coordinates": [53.6744, 7.0397],
+            "contact": "+49 4935 9202",
+            "rating": 4.4
+        },
+        {
+            "name": "Odense",
+            "type": "City",
+            "address": "Odense, Denmark",
+            "coordinates": [55.4038, 10.4024],
+            "contact": "+45 66 11 44 11",
+            "rating": 4.5
+        },
+        {
+            "name": "Trondheim",
+            "type": "City",
+            "address": "Trondheim, Norway",
+            "coordinates": [63.4305, 10.3951],
+            "contact": "+47 73 80 90 00",
+            "rating": 4.7
+        },
+        {
+            "name": "Amsterdam",
+            "type": "City",
+            "address": "Amsterdam, Netherlands",
+            "coordinates": [52.3676, 4.9041],
+            "contact": "+31 20 201 8800",
+            "rating": 4.9
+        },
+        {
+            "name": "Vlieland",
+            "type": "Island",
+            "address": "Vlieland, Netherlands",
+            "coordinates": [53.2969, 5.0159],
+            "contact": "+31 56 245 1400",
+            "rating": 4.3
+        },
+        {
+            "name": "Westerland",
+            "type": "Town",
+            "address": "Westerland, Germany",
+            "coordinates": [54.9129, 8.3075],
+            "contact": "+49 4651 9980",
+            "rating": 4.5
+        },
+        {
+            "name": "Ringkøbing",
+            "type": "Town",
+            "address": "Ringkøbing, Denmark",
+            "coordinates": [56.0901, 8.2440],
+            "contact": "+45 96 70 40 00",
+            "rating": 4.4
+        },
+        {
+            "name": "Haugesund",
+            "type": "City",
+            "address": "Haugesund, Norway",
+            "coordinates": [59.4134, 5.2683],
+            "contact": "+47 52 74 75 00",
+            "rating": 4.6
+        },
+        {
+            "name": "Rotterdam",
+            "type": "City",
+            "address": "Rotterdam, Netherlands",
+            "coordinates": [51.9244, 4.4777],
+            "contact": "+31 10 433 2222",
+            "rating": 4.7
+        },
+        {
+            "name": "Nordermeldorf",
+            "type": "Town",
+            "address": "Nordermeldorf, Germany",
+            "coordinates": [54.1872, 8.9711],
+            "contact": "+49 4875 212",
+            "rating": 4.4
+        },
+        {
+            "name": "Aarhus Airport",
+            "type": "Airport",
+            "address": "Tirstrup, Aarhus, Denmark",
+            "coordinates": [56.3078, 10.6224],
+            "contact": "+45 87 75 70 00",
+            "rating": 4.5
+        },
+        {
+            "name": "Kristiansund Airport Kvernberget",
+            "type": "Airport",
+            "address": "Kvernberget, Kristiansund, Norway",
+            "coordinates": [63.1125, 7.8281],
+            "contact": "+47 67 03 21 00",
+            "rating": 4.6
+        },
+        {
+            "name": "Breskens",
+            "type": "Town",
+            "address": "Breskens, Netherlands",
+            "coordinates": [51.3969, 3.5497],
+            "contact": "+31 117 382 222",
+            "rating": 4.2
+        },
+        {
+            "name": "Cuxhaven",
+            "type": "Town",
+            "address": "Cuxhaven, Germany",
+            "coordinates": [53.8662, 8.6947],
+            "contact": "+49 4721 7990",
+            "rating": 4.3
+        },
+        {
+            "name": "Skagen Beach",
+            "type": "Beach",
+            "address": "Skagen, Denmark",
+            "coordinates": [57.7155, 10.6002],
+            "contact": "+45 89 89 89 89",
+            "rating": 4.4
+        },
+        {
+            "name": "Sandefjord",
+            "type": "Town",
+            "address": "Sandefjord, Norway",
+            "coordinates": [59.1317, 10.2164],
+            "contact": "+47 33 41 20 00",
+            "rating": 4.5
+        },
+        {
+            "name": "Hoek van Holland",
+            "type": "Town",
+            "address": "Hoek van Holland, Netherlands",
+            "coordinates": [51.9772, 4.1334],
+            "contact": "+31 174 384 613",
+            "rating": 4.1
+        },
+        {
+            "name": "Norddeich",
+            "type": "Town",
+            "address": "Norddeich, Germany",
+            "coordinates": [53.6240, 7.1571],
+            "contact": "+49 49 31 9280",
+            "rating": 4.2
+        },
+        {
+            "name": "Thisted",
+            "type": "Town",
+            "address": "Thisted, Denmark",
+            "coordinates": [56.9559, 8.6949],
+            "contact": "+45 99 17 11 00",
+            "rating": 4.3
+        },
+        {
+            "name": "Tønsberg",
+            "type": "Town",
+            "address": "Tønsberg, Norway",
+            "coordinates": [59.2676, 10.4076],
+            "contact": "+47 33 40 60 00",
+            "rating": 4.4
+        },
+        {
+            "name": "Den Helder",
+            "type": "Town",
+            "address": "Den Helder, Netherlands",
+            "coordinates": [52.9590, 4.7600],
+            "contact": "+31 223 671 111",
+            "rating": 4.0
+        },
+        {
+            "name": "Cuxhaven Beach",
+            "type": "Beach",
+            "address": "Cuxhaven, Germany",
+            "coordinates": [53.8911, 8.6885],
+            "contact": "+49 4721 7990",
+            "rating": 4.1
+        },
+        {
+            "name": "Blokhus",
+            "type": "Town",
+            "address": "Blokhus, Denmark",
+            "coordinates": [57.2475, 9.6901],
+            "contact": "+45 98 24 14 22",
+            "rating": 4.2
+        },
+        {
+            "name": "Mandal",
+            "type": "Town",
+            "address": "Mandal, Norway",
+            "coordinates": [58.0250, 7.4642],
+            "contact": "+47 38 27 80 00",
+            "rating": 4.3
+        },
+        {
+            "name": "Zandvoort Beach",
+            "type": "Beach",
+            "address": "Zandvoort, Netherlands",
+            "coordinates": [52.3834, 4.5386],
+            "contact": "+31 23 571 1910",
+            "rating": 3.9
+        },
+        {
+            "name": "Wangerooge Beach",
+            "type": "Beach",
+            "address": "Wangerooge, Germany",
+            "coordinates": [53.7807, 7.8869],
+            "contact": "+49 4469 94930",
+            "rating": 4.0
+        },
+        {
+            "name": "Henne Strand",
+            "type": "Town",
+            "address": "Henne Strand, Denmark",
+            "coordinates": [55.7328, 8.1833],
+            "contact": "+45 75 25 50 60",
+            "rating": 4.1
+        },
+        {
+            "name": "Bergen Beach",
+            "type": "Beach",
+            "address": "Bergen, Norway",
+            "coordinates": [60.3944, 5.3236],
+            "contact": "+47 55 56 20 00",
+            "rating": 4.2
+        },
+        {
+            "name": "Haarlem",
+            "type": "City",
+            "address": "Haarlem, Netherlands",
+            "coordinates": [52.3874, 4.6462],
+            "contact": "+31 23 511 5115",
+            "rating": 4.8
+        },
+        {
+            "name": "Husum",
+            "type": "Town",
+            "address": "Husum, Germany",
+            "coordinates": [54.4817, 9.0513],
+            "contact": "+49 4841 89730",
+            "rating": 4.1
+        },
+        {
+            "name": "Vejers Strand",
+            "type": "Town",
+            "address": "Vejers Strand, Denmark",
+            "coordinates": [55.6655, 8.1878],
+            "contact": "+45 75 27 90 30",
+            "rating": 4.0
+        },
+        {
+            "name": "Stavanger Beach",
+            "type": "Beach",
+            "address": "Stavanger, Norway",
+            "coordinates": [58.9641, 5.7226],
+            "contact": "+47 51 50 70 00",
+            "rating": 4.1
+        },
+        {
+            "name": "Scheveningen Beach",
+            "type": "Beach",
+            "address": "Scheveningen, Netherlands",
+            "coordinates": [52.1160, 4.2784],
+            "contact": "+31 70 416 8200",
+            "rating": 3.7
+        },
+        {
+            "name": "List",
+            "type": "Town",
+            "address": "List, Germany",
+            "coordinates": [55.0324, 8.4426],
+            "contact": "+49 4641 94930",
+            "rating": 4.0
+        },
+        {
+            "name": "Aarhus Beach",
+            "type": "Beach",
+            "address": "Aarhus, Denmark",
+            "coordinates": [56.1459, 10.2121],
+            "contact": "+45 87 13 13 40",
+            "rating": 4.1
+        },
+        {
+            "name": "Ålesund",
+            "type": "City",
+            "address": "Ålesund, Norway",
+            "coordinates": [62.4722, 6.1495],
+            "contact": "+47 70 16 30 00",
+            "rating": 4.2
+        },
+        {
+            "name": "Ameland",
+            "type": "Island",
+            "address": "Ameland, Netherlands",
+            "coordinates": [53.4385, 5.7070],
+            "contact": "+31 519 546 546",
+            "rating": 4.1
+        },
+        {
+            "name": "Föhr",
+            "type": "Island",
+            "address": "Föhr, Germany",
+            "coordinates": [54.7483, 8.5228],
+            "contact": "+49 4681 8040",
+            "rating": 4.0
+        },
+        {
+            "name": "Grenaa",
+            "type": "Town",
+            "address": "Grenaa, Denmark",
+            "coordinates": [56.4185, 10.8825],
+            "contact": "+45 86 32 24 00",
+            "rating": 4.0
+        },
+        {
+            "name": "Grimstad",
+            "type": "Town",
+            "address": "Grimstad, Norway",
+            "coordinates": [58.3420, 8.5955],
+            "contact": "+47 37 25 02 00",
+            "rating": 4.1
+        },
+        {
+            "name": "IJmuiden",
+            "type": "Town",
+            "address": "IJmuiden, Netherlands",
+            "coordinates": [52.4599, 4.5801],
+            "contact": "+31 255 566 000",
+            "rating": 3.8
+        },
+        {
+            "name": "Neuharlingersiel",
+            "type": "Town",
+            "address": "Neuharlingersiel, Germany",
+            "coordinates": [53.6915, 7.6100],
+            "contact": "+49 4974 9107",
+            "rating": 4.0
+        },
+        {
+            "name": "Faaborg",
+            "type": "Town",
+            "address": "Faaborg, Denmark",
+            "coordinates": [55.0950, 10.2463],
+            "contact": "+45 62 61 53 00",
+            "rating": 3.9
+        },
+        {
+            "name": "Tvedestrand",
+            "type": "Town",
+            "address": "Tvedestrand, Norway",
+            "coordinates": [58.6280, 8.7993],
+            "contact": "+47 37 19 95 00",
+            "rating": 4.0
+        },
+        {
+            "name": "Domburg",
+            "type": "Town",
+            "address": "Domburg, Netherlands",
+            "coordinates": [51.5644, 3.4961],
+            "contact": "+31 118 588 841",
+            "rating": 3.7
+        },
+        {
+            "name": "Otterndorf",
+            "type": "Town",
+            "address": "Otterndorf, Germany",
+            "coordinates": [53.8102, 8.8940],
+            "contact": "+49 4741 9100",
+            "rating": 3.9
+        },
+        {
+            "name": "Fanø",
+            "type": "Island",
+            "address": "Fanø, Denmark",
+            "coordinates": [55.4018, 8.4363],
+            "contact": "+45 75 16 22 00",
+            "rating": 3.8
+        },
+        {
+            "name": "Gjøvik",
+            "type": "Town",
+            "address": "Gjøvik, Norway",
+            "coordinates": [60.7930, 10.6899],
+            "contact": "+47 61 18 93 00",
+            "rating": 3.9
+        },
+        {
+            "name": "Katwijk Beach",
+            "type": "Beach",
+            "address": "Katwijk, Netherlands",
+            "coordinates": [52.2033, 4.3974],
+            "contact": "+31 71 407 6266",
+            "rating": 3.5
+        },
+        {
+            "name": "Westerland Beach",
+            "type": "Beach",
+            "address": "Westerland, Germany",
+            "coordinates": [54.9103, 8.3083],
+            "contact": "+49 4651 9980",
+            "rating": 3.7
+        },
+        {
+            "name": "Blåvand",
+            "type": "Town",
+            "address": "Blåvand, Denmark",
+            "coordinates": [55.5428, 8.1062],
+            "contact": "+45 75 27 90 30",
+            "rating": 3.6
+        },
+        {
+            "name": "Molde",
+            "type": "City",
+            "address": "Molde, Norway",
+            "coordinates": [62.7374, 7.1591],
+            "contact": "+47 71 11 10 00",
+            "rating": 3.8
+        },
+        {
+            "name": "Sint Maartenszee",
+            "type": "Town",
+            "address": "Sint Maartenszee, Netherlands",
+            "coordinates": [52.7628, 4.6457],
+            "contact": "+31 224 563 343",
+            "rating": 3.4
+        },
+        {
+            "name": "Büsum Beach",
+            "type": "Beach",
+            "address": "Büsum, Germany",
+            "coordinates": [54.1275, 8.8545],
+            "contact": "+49 4834 90010",
+            "rating": 3.6
+        },
+        {
+            "name": "Gilleleje",
+            "type": "Town",
+            "address": "Gilleleje, Denmark",
+            "coordinates": [56.1223, 12.2990],
+            "contact": "+45 48 30 50 00",
+            "rating": 3.5
+        },
+        {
+            "name": "Voss",
+            "type": "Town",
+            "address": "Voss, Norway",
+            "coordinates": [60.6292, 6.4225],
+            "contact": "+47 56 52 50 00",
+            "rating": 3.7
+        },
+        {
+            "name": "Scheveningen Pier",
+            "type": "Pier",
+            "address": "Scheveningen, Netherlands",
+            "coordinates": [52.1127, 4.2807],
+            "contact": "+31 70 416 8200",
+            "rating": 3.3
+        },
+        {
+            "name": "Sankt Peter-Ording",
+            "type": "Town",
+            "address": "Sankt Peter-Ording, Germany",
+            "coordinates": [54.3103, 8.6356],
+            "contact": "+49 4863 9990",
+            "rating": 3.5
+        },
+        {
+            "name": "Grenen",
+            "type": "Natural Feature",
+            "address": "Skagen, Denmark",
+            "coordinates": [57.7301, 10.6044],
+            "contact": "+45 89 89 89 89",
+            "rating": 3.4
+        },
+        {
+            "name": "Mandal Beach",
+            "type": "Beach",
+            "address": "Mandal, Norway",
+            "coordinates": [58.0222, 7.4610],
+            "contact": "+47 38 27 80 00",
+            "rating": 3.6
+        },
+        {
+            "name": "Zandvoort Pier",
+            "type": "Pier",
+            "address": "Zandvoort, Netherlands",
+            "coordinates": [52.3722, 4.5254],
+            "contact": "+31 23 571 1910",
+            "rating": 3.2
+        },
+        {
+            "name": "Hörnum",
+            "type": "Town",
+            "address": "Hörnum, Germany",
+            "coordinates": [54.8773, 8.3119],
+            "contact": "+49 4651 962619",
+            "rating": 3.4
+        },
+        {
+            "name": "Skagen Lighthouse",
+            "type": "Lighthouse",
+            "address": "Skagen, Denmark",
+            "coordinates": [57.7203, 10.5910],
+            "contact": "+45 98 44 11 11",
+            "rating": 3.3
+        },
+        {
+            "name": "Oslo Beach",
+            "type": "Beach",
+            "address": "Oslo, Norway",
+            "coordinates": [59.9139, 10.7522],
+            "contact": "+47 21 80 21 80",
+            "rating": 3.5
+        },
+        {
+            "name": "Katwijk Pier",
+            "type": "Pier",
+            "address": "Katwijk, Netherlands",
+            "coordinates": [52.2048, 4.4032],
+            "contact": "+31 71 407 6266",
+            "rating": 3.1
+        },
+        {
+            "name": "Norddeich Beach",
+            "type": "Beach",
+            "address": "Norddeich, Germany",
+            "coordinates": [53.6214, 7.1635],
+            "contact": "+49 4931 9280",
+            "rating": 3.3
+        },
+        {
+            "name": "Hirtshals Beach",
+            "type": "Beach",
+            "address": "Hirtshals, Denmark",
+            "coordinates": [57.5885, 9.9651],
+            "contact": "+45 98 94 11 88",
+            "rating": 3.2
+        },
+        {
+            "name": "Bergen Pier",
+            "type": "Pier",
+            "address": "Bergen, Norway",
+            "coordinates": [60.3913, 5.3221],
+            "contact": "+47 55 56 20 00",
+            "rating": 3.4
+        }
+    ]
+}

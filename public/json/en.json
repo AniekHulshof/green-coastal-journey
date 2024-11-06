@@ -1,0 +1,107 @@
+{
+    "header": {
+        "home": "Home",
+        "aboutus": "About us",
+        "dropdown": {
+            "history": "History",
+            "project": "The project",
+            "organization": "The organization"
+        },
+        "map": "Map",
+        "contact": "Contact",
+        "translate": "Translate"
+    },
+    "landingpage": {
+        "quote": "Explore <br /> your <br /> journey",
+        "topic": [
+            "About Us",
+            "Map",
+            "Contact"
+        ],
+        "paragraph": [
+            "We are the International Green North Sea Coast Road 2.0 Foundation, established on November 21, 2020, and based in Groningen. Our international project Green Coastal Journey focuses on...",
+            "Do you want to travel along the coast of Northern Europe? Here you can choose your own route with all local accommodations and attractions.",
+            "Would you like your business to be a part of this too? Fill out a form here and get on the map! You can also contact us here for other questions."
+        ],
+        "link": [
+            "Read more!",
+            "Create your own route!",
+            "Contact us"
+        ]
+    },
+    "geschiedenis": {
+        "title": [
+            "Present",
+            "Past"
+        ],
+        "paragraph": [
+            "We are the International Green North Sea Coast Road 2.0 Foundation, established on November 21, 2020, and based in Groningen.<br><br>Our international project Green Coastal Journey focuses on sustainable development of tourism and culture in the North Sea coastal areas of the Netherlands, Germany, Denmark, and Norway. We aim to achieve this by entering into a unique collaboration with and between the public tourist organizations (Destination Marketing Organizations) and the tourist enterprises along this coast.<br><br>The project responds to current and future societal developments. The evolving society calls for a reconsideration of traditional tourism, with sustainability – also in tourism – increasingly expected, and this being the essence of our project. Other characteristics include:<br><br>- Economic stimulation of coastal regions<br>- Innovative digitalization<br>- International cooperation",
+            "The original Green Coastal Road was an initiative of the provincial tourist board Groningen in collaboration with VVV Bremen in the 1960s. Objective: to promote tourism between the two cities and provinces. Later, Denmark and Norway joined.<br><br>The old-style Green Coastal Road gradually faded into obscurity due to various developments. With the digital Green Coastal Journey, we are redeveloping the tourist journey, which previously existed in printed form, into a modern, digital product."
+        ]
+    },
+    "project": {
+        "title": [
+            "Objective",
+            "Search, choose, and book",
+            "Greening and sustainability"
+        ],
+        "paragraph": [
+            "The goal is to provide a clear overview of all relevant content, such as accommodations, routes, and cultural activities, along the coasts of Northern Netherlands, Germany, Denmark, and Norway digitally (via a website and app). The connecting theme: sustainable tourist attractions, Points of Interest, and their sustainable use by tourists. This website/app should allow tourists to plan their trips in advance, but also to search for the next interesting destination on a route between Northern Netherlands and Norway or back during their journey. It thus fulfills the needs of both spontaneous and planning tourists. We also want to compile stories that connect similar Points of Interest. Successful development of this project also provides extra advertising for the tourist entrepreneur, improves findability, and thus contributes to the economic development and growth of the industry. All around the theme: sustainable tourism along the Green Coastal Road from Northern Netherlands, Northwest Germany, Denmark to Norway.",
+            "The relevant content is selected by specifying the preferences of the tourist. It will be an advanced search engine combined with background information about Points of Interest, including the ability to book access or reserve accommodation. Tourists can also rate these accommodations and stories to help the next potential visitor with their choice.",
+            "Our mission is to make tourism more sustainable. How? By promoting the North Sea coastal region of the Netherlands, Germany, Denmark, and Norway throughout the year and stimulating tourist experiences towards green initiatives. By extending the holiday season, tourism is better spread out, and the pressure on heavily visited areas is reduced. As a result, bed occupancy also increases. We aim to: - encourage electric driving as much as possible by including available charging stations in the app. - offer Points of Interest with green, sustainable initiatives in their operations - provide green entrepreneurs with a platform to promote themselves with similar initiatives to like-minded individuals. In doing so, contribute to the promotion of sustainable tourism."
+        ]
+    },
+    "organization": {
+        "title": [
+            "Board of the Foundation",
+            "Other Functions"
+        ],
+        "functions": [
+            "Chair",
+            "Secretary",
+            "Treasurer",
+            "Project Management",
+            "International Relations",
+            "Finance",
+            "Communication",
+            "Financial Office",
+            "Advisors"
+        ]
+    },
+    "contact": {
+        "title": "Sign up? Right Here!",
+        "info": [
+            "Company name:",
+            "Street name:",
+            "House number:",
+            "Postal code:",
+            "City:",
+            "Email address:",
+            "Phone number:"
+        ],
+        "submit": "Submit"
+    },
+    "aboutus": {
+        "paragraph": [
+            "We are the International Green North Sea Coastal Road 2.0 Foundation, founded on November 21, 2020, and based in Groningen.<br><br>Our international project Green Coastal Journey focuses on the sustainable development of tourism and culture in the North Sea coastal areas of the Netherlands, Germany, Denmark, and Norway. We aim to achieve this through a unique collaboration with and between the public tourist organizations (Destination Marketing Organizations) and the tourist enterprises along this coast.<br><br>The project responds to current and future societal developments. The evolving society calls for a rethink of traditional tourism, with sustainability - also in tourism - increasingly expected, and this is the essence of our project.<br><br>The other characteristics:<br>- economic stimulation of coastal regions<br>- innovative digitization<br>- international cooperation",
+            "The original Green Coastal Road was an initiative of the provincial tourist office (VVV) Groningen in collaboration with VVV Bremen in the 1960s. The objective was to stimulate tourism between the two cities and provinces. Later, Denmark and Norway joined this initiative.<br><br>The old-style Green Coastal Road gradually faded into obscurity due to various developments.<br><br>With the digital Green Coastal Journey, we are redeveloping the tourist journey, which previously existed in printed form, into a modern, digital product."
+        ]
+    },
+    "login": {
+        "login": "Log in to your account",
+        "email": "Email",
+        "password": "Password",
+        "rememberme": "Remember me",
+        "rememberpw": "Forgot password?",
+        "submit": "Log in",
+        "account": "Dont have an account?",
+        "register": "Register here"
+    },
+    "footer": {
+        "address": "Leonard Springerlaan 37<br>9727 KB, Groningen",
+        "email": "info@greencoastaljourney.eu",
+        "mobile": "+31 6 46 61 53 04",
+        "kvk": "80974252",
+        "organization": "International Green Northsea Coastalroad 2.0 Foundation"
+    }
+}

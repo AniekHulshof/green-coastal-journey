@@ -1,0 +1,107 @@
+{
+    "header": {
+        "home": "Home",
+        "aboutus": "Over ons",
+        "dropdown": {
+            "history": "Geschiedenis",
+            "project": "Het project",
+            "organization": "De organisatie"
+        },
+        "map": "Kaart",
+        "contact": "Contact",
+        "translate": "Vertalen"
+    },
+    "landingpage": {
+        "quote": "Ontdek <br /> jouw <br /> reis",
+        "topic": [
+            "Over ons",
+            "Kaart",
+            "Contact"
+        ],
+        "paragraph": [
+            "Wij zijn de Stichting Internationale Groene Noordzee Kustweg 2.0, opgericht 21 november 2020 en gevestigd in Groningen. Ons internationale project Green Coastal Journey richt zich op...",
+            "Wil jij graag langs de kust van Noord-Europa reizen? Hier kan je je eigen route uitzoeken met allemaal lokale accommodaties enbezienswaardigheden.",
+            "Wil jij als bedrijf hier ook bij horen? Vul hier een formulier in en kom ook op de kaart! Ook voor andere vragen kan je hier contact opnemen."
+        ],
+        "link": [
+            "Lees meer!",
+            "Maak je eigen route!",
+            "Neem contact op"
+        ]
+    },
+    "geschiedenis": {
+        "title": [
+            "Heden",
+            "Verleden"
+        ],
+        "paragraph": [
+            "Wij zijn de Stichting Internationale Groene Noordzee Kustweg 2.0, opgericht 21 november 2020 en gevestigd in Groningen.<br><br>Ons internationale project Green Coastal Journey richt zich op duurzame ontwikkeling van toerisme en cultuur in de Noordzee-kustgebieden van Nederland, Duitsland, Denemarken en Noorwegen. Dit willen wij bereiken door een unieke samenwerking aan te gaan met en tussen de publieke toeristische organisaties (Destinatie Marketing Organisaties) en de toeristische ondernemingen langs deze kust.<br><br>Het project speelt in op de huidige en toekomstige maatschappelijke ontwikkelingen. De zich vernieuwende samenleving vraagt om herbezinning op het traditionele toerisme, waarbij van duurzaamheid – ook in het toerisme – steeds meer verwacht mag worden en dit de essentie van ons project is. De overige kenmerken:<br><br>- economische stimulering kustregio’s<br>- innovatieve digitalisering<br>- internationale samenwerking",
+            "De oorspronkelijke Groene Kustweg was in de zestiger jaren een initiatief van de provinciale VVV Groningen in samenwerking met VVV Bremen. Doelstelling: het op gang brengen van het toerisme tussen de beide steden en provincies. Later sloten Denemarken en Noorwegen zich daarbij aan.<br><br>De Groene Kustweg-oude-stijl raakte door verschillende ontwikkelingen meer en meer in vergetelheid. Wij herontwikkelen met de digitale Green Coastal Journey de toeristische journey, die voorheen in gedrukte vorm bestond, tot een modern, digitaal product."
+        ]
+    },
+    "project": {
+        "title": [
+            "Doelstelling",
+            "Zoeken, kiezen en boeken",
+            "Vergroening en duurzaamheid"
+        ],
+        "paragraph": [
+            "Het doel is om digitaal (via een website en app.) een overzichtelijk beeld te bieden van alle relevante content, zoals accommodaties, routes en culturele activiteiten, langs de kusten van Noord-Nederland, Duitsland, Denemarken en Noorwegen. Met als verbindend thema: duurzame toeristische attracties, Points of Interest en duurzaam gebruik daarvan door de toerist. Deze website/app. moet de toerist de mogelijkheid geven om van tevoren de reis uit te stippelen, maar ook om tijdens de reis te zoeken naar de volgende interessante bestemming op een route tussen Noord-Nederland en Noorwegen of terug. Het vervult daarmee de behoefte van zowel de spontane als de plannende toerist. Ook willen wij verhalen samenstellen die soortgelijke Points of Interest met elkaar verbinden. Een succesvolle ontwikkeling van dit project levert ook de toeristische ondernemer extra reclame op, verbetert de vindbaarheid en draagt dus bij aan economische doorontwikkeling en groei van de branche. Alles rond het thema: duurzaam toerisme langs de Groene Kustweg van Noord-Nederland, Noordwest-Duitsland, Denemarken tot in Noorwegen.",
+            "De relevante inhoud wordt geselecteerd door middel van het opgeven van de voorkeuren van de toerist. Het wordt een geavanceerde zoekmachine gecombineerd met inhoudelijke achtergrondinformatie over Points of Interest, inclusief de mogelijkheid toegang te boeken of onderdak te reserveren. De toerist kan ook deze accommodaties en verhalen beoordelen om zo de volgende potentiële bezoeker te helpen met de keuze.",
+            "Wij hebben als missie het toerisme te verduurzamen. Hoe? Door de Noordzee-kustregio van Nederland, Duitsland, Denemarken en Noorwegen het gehele jaar te promoten en de toeristische beleving te stimuleren richting groene initiatieven. Door het vakantieseizoen te verlengen, wordt het toerisme beter gespreid en de druk op de veel bezochte gebieden verminderd. Pro saldo wordt de bedbezetting daardoor ook nog eens hoger. Wij willen: - elektrisch rijden zo veel mogelijk stimuleren door bijvoorbeeld de beschikbare laadpalen op te nemen in de app. - Points of Interest aanbieden met groene, duurzame initiatieven in de exploitatie - groene ondernemers een platform bieden zich te promoten met gelijkvormige initiatieven onder gelijk geïnteresseerden. Daarmee een steentje bijdragen aan het stimuleren van duurzaam toerisme."
+        ]
+    },
+    "organization": {
+        "title": [
+            "Bestuur Stichting",
+            "Andere Functies"
+        ],
+        "functions": [
+            "Voorzitter",
+            "Secretaris",
+            "Penningmeester",
+            "Projectleiding",
+            "Internationale betrekkingen",
+            "Financiën",
+            "Communicatie",
+            "Financieel bureau",
+            "Adviseurs"
+        ]
+    },
+    "contact": {
+        "title": "Aanmelden? Dat kan!",
+        "info": [
+            "Bedrijfsnaam:",
+            "Straatnaam:",
+            "Huisnummer:",
+            "Postcode:",
+            "Vestigingsplaats:",
+            "E-mailadres:",
+            "Telefoonnummer:"
+        ],
+        "submit": "Verzenden"
+    },
+    "aboutus": {
+        "paragraph": [
+            "Wij zijn de Stichting Internationale Groene Noordzee Kustweg 2.0, opgericht 21 november 2020 en gevestigd in Groningen.<br><br>Ons internationale project Green Coastal Journey richt zich op duurzame ontwikkeling van toerisme en cultuur in de Noordzee-kustgebieden van Nederland, Duitsland, Denemarken en Noorwegen. Dit willen wij bereiken door een unieke samenwerking aan te gaan met en tussen de publieke toeristische organisaties (Destinatie Marketing Organisaties) en de toeristische ondernemingen langs deze kust.<br><br>Het project speelt in op de huidige en toekomstige maatschappelijke ontwikkelingen. De zich vernieuwende samenleving vraagt om herbezinning op het traditionele toerisme, waarbij van duurzaamheid ook in het toerisme steeds meer verwacht mag worden en dit de essentie van ons project is.<br><br> De overige kenmerken: <br>- economische stimulering kustregios <br>- innovatieve digitalisering <br>- internationale samenwerking",
+            "De oorspronkelijke Groene Kustweg was in de zestiger jaren een initiatief van de provinciale VVV Groningen in samenwerking met VVV Bremen.Doelstelling: het op gang brengen van het toerisme tussen de beide steden en provincies.Later sloten Denemarken en Noorwegen zich daarbij aan.De Groene Kustweg-oude-stijl raakte door verschillende ontwikkelingen meer en meer in vergetelheid. Wij herontwikkelen met de digitale Green Coastal Journey de toeristische journey, die voorheen in gedrukte vorm bestond, tot een modern, digitaal product."
+        ]
+    },
+    "login": {
+        "login": "Log in op jouw account",
+        "email": "Email",
+        "password": "Wachtwoord",
+        "rememberme": "Onthoudt mij",
+        "rememberpw": "Wachtwoord vergeten?",
+        "submit": "Log in",
+        "account": "Heb je nog geen account?",
+        "register": "Maak aan"
+    },
+    "footer": {
+        "address": "Leonard Springerlaan 37 <br> 9727 KB, Groningen",
+        "email": "info@greencoastaljourney.eu",
+        "mobile": "+31 6 46 61 53 04",
+        "kvk": "80974252",
+        "organization": "Stichting Internationale Groene Noordzee Kustweg 2.0"
+    }
+}
